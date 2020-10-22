@@ -2,7 +2,8 @@
 
 Это корпус феминистских постов в VK из двух пабликов (https://vk.com/socfem - Soc-Fem, https://vk.com/radfemtranslations - radfem translations).
 
-Общий объём - ... слов.
+Общий объём - ... слов, 3468 предложений.
+
 
 Файл со всей программой - NLP_project.
 
