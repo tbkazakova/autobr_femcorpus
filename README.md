@@ -1,6 +1,6 @@
 # autobr_femcorpus
 
-Это корпус феминистских постов в VK из двух пабликов
+Это корпус феминистских постов в VK из двух пабликов (https://vk.com/socfem - Soc-Fem, https://vk.com/radfemtranslations - radfem translations).
 
 Общий объём - ... слов.
 
